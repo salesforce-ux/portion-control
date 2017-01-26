@@ -24,6 +24,7 @@
     "compression": "^1.6.2",
     "data.task": "^3.1.1",
     "express": "^4.14.0",
+    "immutable": "^3.8.1",
     "nchart": "^1.0.1"
   },
   "devDependencies": {

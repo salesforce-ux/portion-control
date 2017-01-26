@@ -17,12 +17,12 @@ const listen = (app, port) =>
 
 app.get('/pie.png', (req, res) =>
     renderChart(req.query)
-    .fork(e => res
+    .fork(error => res
                .status(500)
-               .send(`error ${e}`),
-          r => res
+               .send(`error ${error}`),
+          result => res
                .contentType('image/png')
-               .send(r)))
+               .send(result)))
 
 listen(app, port)
 .map(port => `Listening on port ${port}`)
