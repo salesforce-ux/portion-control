@@ -1,0 +1,32 @@
+{
+  "name": "portion-control",
+  "version": "1.0.0",
+  "description": "Quickly communicate project values",
+  "scripts": {
+    "start": "node app",
+    "start-dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salesforce-ux/portion-control.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salesforce-ux/portion-control/issues"
+  },
+  "homepage": "https://github.com/salesforce-ux/portion-control#readme",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "chart.js": "^2.4.0",
+    "chartjs-node": "^1.4.0",
+    "compression": "^1.6.2",
+    "data.task": "^3.1.1",
+    "express": "^4.14.0",
+    "nchart": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
