@@ -20,7 +20,7 @@ Don't forget the `alt` tag for a11y. Doubling the size makes it look nice on ret
 
 Enjoy!
 
-# LICENSE
+# License
 
 Copyright (c) 2015, salesforce.com, inc. All rights reserved.
 
