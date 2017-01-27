@@ -1,6 +1,9 @@
 # Portion Control
 
-Render a badge to quickly communicate project values
+<img src="http://portioncontrol.herokuapp.com/pie.png?size=500x500&performance=70&readabilty=10scalability&=20" alt="pie" width=250 height=250 />
+
+
+Render a badge to quickly communicate project values.
 
 
 # Usage
@@ -9,7 +12,7 @@ Render a badge to quickly communicate project values
 
   * Add an image tag:
 
-    ```
+    ```html
       <img src="http://portioncontrol.herokuapp.com/pie.png?size=500x500&performance=70&readabilty=25&maintainability=5" alt="performance=70, readabilty=25, maintainability=5" width=250 height=250 />
     ```
 
