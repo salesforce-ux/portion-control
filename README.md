@@ -1,5 +1,7 @@
 # Portion Control
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/salesforce-ux/portion-control.svg)](https://greenkeeper.io/)
+
 <img src="http://portioncontrol.herokuapp.com/pie.png?size=250x250&performance=65&readabilty=15&scalability=20" alt="pie" width=125 height=125 />
 
 
